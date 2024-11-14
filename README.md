@@ -1,18 +1,18 @@
 ### copy the code to Install
 ```
-git clone https://github.com/dev-rajnish/ba.sh.git ; cd ba.sh ; ./install.sh
+git clone https://github.com/dev-rajnish/ba-sh.git ; cd ba-sh ; ./install.sh
 
 ```
 #OR
 
 ```
-git clone https://github.com/dev-rajnish/ba.sh.git 
-cd ba.sh 
+git clone https://github.com/dev-rajnish/ba-sh.git 
+cd ba-sh 
 ./install.sh
 
 ```
 ### for un-installing copy
-
+./uninstall.sh
 ```
 
 ```
